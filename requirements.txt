@@ -5,6 +5,8 @@ python-dotenv
 PyPDF2
 numpy
 pandas
+logging
+datetime
 
 
 -e .
